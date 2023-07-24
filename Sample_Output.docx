@@ -1,0 +1,29 @@
+FAN AND CONTROL METHOD THEREFOR
+CROSS-REFERENCE TO RELATED APPICATIONS
+5 [0001] This application is a continuation of International Application PCT/CN2016/106304,
+filed on November 17, 2016, which claims priority to and the benefit of Chinese Patent
+Application No. 201610116131.5 filed with the Chinese Patent Office on February 29, 2016. the
+entire contents of which are incorporated herein by reference.
+
+10 FIELD
+10002] The present disclosure relates to  household appliance technology field. and more
+particularly 10 a fan control method and a fan
+BACKGROUND.
+
+15 [0003] In the related art, after a fan detects a child through a camera, the fan may enter a child
+mode. in which, a wind speed of the fan is adjusted via recognizing a distance between the child
+and the fan. When the distance between the child and the fan is relative small, the fan s stopped or
+powered off.
+
+10004] There may be certain defects in this method. When the camera fails, it is easy to have.
+
+20 misidentification on the appearance feature recognition. which causes a problem that the fan can
+not enter the child mode, the control fails, and the wind speed control is not accurate due to
+inaccurate recognition of the distance from the child to the fan. In addition, when the distance
+between the fan and the child is relative small, the fan may be stopped or powered off, and aging
+of the control circuit and the motor may be accelerated due 1o the fan repeat switching between
+
+25 start and stop, which reduces the service lfe of the fan, and reduces the user experience
+SUMMARY
+1000S] Embodiments of the present disclosure seek {0 solve atfeast one of the problems existing
+inthe related art 10 at least some extent.
