@@ -1,6 +1,5 @@
 #include <iostream>
 #include <fstream>
-#include <mupdf/fitz.h>
 #include <tesseract/baseapi.h>
 #include <leptonica/allheaders.h>
 
@@ -55,9 +54,9 @@ int main()
     const char* dataPath = "C:/Users/Tarun/source/repos/PDF-Word/tessdata";
 
     // Set the ouput file
-    std::string outputFilePath = "C:/Users/Tarun/Desktop/PdttoText/output2.docx";
+    std::string outputFilePath = "C:/Users/Tarun/Desktop/PdttoText/Sample_Output.docx";
 
-    const char* inputPath = "C:/Users/Tarun/Desktop/PdttoText/pdf1.png";
+    const char* inputPath = "C:/Users/Tarun/Desktop/PdttoText/sample.png";
     printf("Initialised\n");
     char* extractedText = extractText(dataPath, inputPath);
 
