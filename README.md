@@ -25,9 +25,11 @@ Before running the program, make sure you have the following installed on your s
 ## How to Build
 Compile the program Image-Word.cpp as normal C++ program.
 
-## Sample output
+## Sample Input
 ![sample out put](./sample.png)
 
+## Sample Output
+[Here](./Sample_Output.docx) is the ouptut.
 ## Usage
 
 1. Place the input image file (e.g., "input_image.png") in the same directory as the compiled binary.
